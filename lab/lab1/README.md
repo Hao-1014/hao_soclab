@@ -9,4 +9,6 @@ The goal of this lab is to install the required application such as vivado and v
 ![image](https://github.com/Hao-1014/hao_soclab/assets/137171680/b915bc45-47d7-4601-a4dc-e3a32dc95fb8)
 ### Utization
 ![image](https://github.com/Hao-1014/hao_soclab/assets/137171680/74598197-dde3-4173-a237-1160193f9393)
+### Interface
+![image](https://github.com/Hao-1014/hao_soclab/assets/137171680/004094e3-d620-4e8b-bd10-0f386812a0bf)
 
